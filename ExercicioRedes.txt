@@ -1,0 +1,40 @@
+- O que são métodos HTTP?
+Também conhecidos como Verbos HTTP são responsáveis por implementar semânticas diferentes como GET, POST, PUT e DELETE.
+
+- Quais são os métodos HTTP mais utilizados atualmente?
+São os métodos GET, POST, PUT E DELETE.
+
+- Quais são os 2 principais métodos do HTTP? Qual é a diferença entre eles?
+Os dois principais são GET e POST. GET solicita a representação de um recurso específico e deve retornar apenas dados. O POST submete uma entidade a um recurso específico, causando uma mudanã no estado do recurso ou efeitos colaterais no servidor.
+
+- O que são requisições HTTP? Quais os tipos?
+São requisições enviadas pelo cliente para iniciar uma ação no servidor. Os tipos GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE e PATCH.
+
+- Como funciona uma requisição?
+É um pedido do cliente para o servidor e nesse pedido deve conter requisições para que o servidor consiga responder de acordo. Um texto de requisição HTTP tem três partes: request line, headers e body, mas apenas a request line é obrigatória.
+
+- O que é o método GET?
+É um método que solicita a representação de um recurso específico. Essas requisições devem retornar apenas dados.
+
+- Qual é o protocolo de internet para transferência segura, com uso de certificado digital, utilizado em sites de compras eletrônicas?
+É o protocolo HTTPS.
+
+- Quais os principais métodos de uma requisição REST?
+São GET, POST, PUT e DELETE.
+
+- Qual a diferença entre IPv4 e IPv6?
+IPv4 é um protocolo de internet que tem um limite de combinações de endereços de 4 bilhões. Já o IPv6 permite que o mesmo endereço de IP possa ser utilizado por várias máquinas e não tem a mesma limitação do IPv4.
+
+- Faça um resumo sobre os seguintes protocolos: http, tcp, ip, udp, smtp e ftp.
+
+HTTP: Protocolo de tranferência que possibilita que as pessoas acessem conteúdos na Web.
+
+TCP: Protocolo responsável pela entrega de dados assim que o IP for encontrado.
+
+IP: Protocolo de Internet responsável pelos formatos e regras de trocas de dados e mensagens entre computadores.
+
+UDP: Protocolo que opera sobre o IP para transmitir datagramas em uma rede. Ele não exige que a origem e o destino estabeleçam um handshake triplo antes que a permissão ocorra.
+
+SMTP: Protocolo de transferência de emails que permite que eles sejam enviados e entregues.
+
+FTP: Protocolo de de transferência de arquivos.
